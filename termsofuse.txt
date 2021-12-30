@@ -6,13 +6,16 @@ Mello – Sleep Sounds app ("Mello" or "we" or "us" or "our") is a simple applic
 
 By using the Mello application (“app” or collectively, the “Services”), you agree to be bound by both our Terms of Use (“Terms”) and our Privacy Policy. This is a legal agreement between you and us. If you do not agree with any of these Terms, then simply do not use the Mello app. Each time you use or access the Mello app, you are responsible for being familiar with any changes or modifications to these Terms of Use, which could happen at any time.
 
+
 FEES AND CHARGES.
 The Mello app contains In-App-Purchases (“IAPs”) to unlock more features and content. Please be aware that IAPs are non-refundable. Make sure you require authentication for all purchases within the Apple App Store’s settings to avoid accidental purchases. It’s a great feature that everyone should enable.
+
 
 MEMBERSHIP.
 As a Mello+ Member you will receive access to certain sections, features and functions of the application that are not available to non-members.
 
 Mello+ membership subscriptions are not transferable and therefore you agree to not sell, transfer, or exchange membership accounts or subscriptions in any way or under any circumstance. This expressly applies to any discounted, subsidized, or free accounts or subscriptions.
+
 
 SUBSCRIPTIONS.
 Mello app users may access additional features and content via “Mello+”, a subscription fee-based program, which gives access to all content within the application. You will only have access to Mello+ while your paid subscription is active and subsisting.
@@ -26,13 +29,16 @@ You may access Mello+ via a monthly or annual subscription option. For the purpo
 Our “Monthly” subscription is paid in monthly installments. For each month that your monthly subscription is active, you acknowledge and agree that Mello is authorized to charge the same credit card as was used for the initial subscription fee or other payment. The monthly renewal subscription fees will continue to be billed to the Payment Method you provided until cancelled. You must cancel your subscription before it renews in order to avoid billing of the next month’s subscription fee to the Payment Method you provided. Refunds cannot be claimed for any partial-month subscription period.
 
 Our “Yearly” subscription is paid for by an upfront payment with automatic annual renewals. You acknowledge and agree that Mello is authorized to charge the Payment Method used for the initial annual subscription fee at the rate secured at the time of purchase, and the non-discounted renewal subscription fee(s). You must cancel your subscription before it renews in order to avoid billing of the renewal subscription fee to the Payment Method you provided. Refunds cannot be claimed for any partial subscription period.
+
  
 LIMITATION OF LIABILITY.
 To the maximum extent permitted by law, Mello shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (a) your access to or use of or inability to access or use the services; (b) any conduct or content of any third party on the services, including without limitation, any defamatory, offensive or illegal conduct of other users or third parties; or (c) unauthorized access, use or alteration of your transmissions or content.
 
+
 TERMS OF USE CHANGES.
 We reserve the right, at our sole discretion, to change or modify portions of these Terms at any time. If we do this in a way that changes your rights, we will post the changes on this page and will indicate at the top of this page the date these terms were last revised. We may require you to provide consent to the updated Terms before further use of the Services is permitted. Otherwise, your continued use of the Services after the date any such changes become effective constitutes your acceptance of the new Terms. If you do not agree to the amended Terms, you must stop using the Services. However, any dispute that arose before the changes shall be governed by the Terms that were in place when the dispute arose.
 
+
 In the event of any dispute, we ask that you contact us first and attempt to resolve any dispute you have with us informally by contacting us at themelloapp@gmail.com
 
-Have a great day!
+Have a great day, and thank you for using Mello!
